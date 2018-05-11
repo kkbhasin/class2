@@ -1,0 +1,29 @@
+
+.background {
+    background-color: lightblue;
+}
+
+ul {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+hl {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: double;
+    border-color: navy;
+    border-width: 15px;
+}
